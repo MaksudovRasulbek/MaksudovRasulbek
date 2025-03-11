@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Baymaxdev
-- 👀 I’m into learning something new;)
-- 🌱 I’m currently learning Data Science 
-- 💞️ I’m looking to collaborate on Python
-- 🪙💸 Take it easy calm down and go on 
+
